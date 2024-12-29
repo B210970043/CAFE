@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424349905343",
+    "project_id": "cafe-de3b4",
+    "storage_bucket": "cafe-de3b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424349905343:android:cde9e5e7311f2d7c50b10a",
+        "android_client_info": {
+          "package_name": "com.example.find_and_contact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1pGOyfnVH6qu0Mt0FGx13-tYKGZHWKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
